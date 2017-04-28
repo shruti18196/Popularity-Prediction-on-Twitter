@@ -4,7 +4,7 @@ Popularity Prediction on Twitter
 
 -------------------------------------------------------------------------------
 The project done as a part of the EE219 in Winter 2017. 
-The goal of the project is split into 3 part:
+The goal of the project is split into 3 parts:
  1. According to the type of hashtag of tweet, we can to predict the next hour 
     the number of post tweet for this hashtag
  2. According to the textual content of the tweet posted by a user, we can 
